@@ -34,4 +34,4 @@
 - 解释电路
   - 根据你已有的对二极管的了解，解释一下为什么这个电路可以从交流转变成直流
 
-![2a2f0bfe3cfbf0929504eb92671382c](C:\Users\sunxun\Desktop\第一次考核\2a2f0bfe3cfbf0929504eb92671382c.png)
+![2a2f0bfe3cfbf0929504eb92671382c](https://github.com/SunXun-creator/-/blob/main/2a2f0bfe3cfbf0929504eb92671382c.png)
