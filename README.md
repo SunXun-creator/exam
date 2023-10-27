@@ -16,7 +16,7 @@
 2. 了解各种常见的编码格式，如`ASCII`和`utf-8`，要用自己的话理解说明，举例说明
 3. 了解电容的分类、作用。要用自己的话理解说明
 4. 你们都知道`int main()`
-   - 请问`int main(int argc, char ** argv)加的这俩参数是啥意思
+   - 请问`int main(int argc, char ** argv)`加的这俩参数是啥意思
 
 ### 看图识物
 
