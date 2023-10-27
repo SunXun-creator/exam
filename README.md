@@ -24,11 +24,11 @@
 
 ![7fa8dfcf3999543da51c98ce337dcb72](https://github.com/SunXun-creator/-/blob/main/142b77ac65c3cd4f8f5135c6ca784bc.jpg)
 
-![64fc630d62488086e8aedf3d078ddaa](C:\Users\sunxun\Desktop\第一次考核\64fc630d62488086e8aedf3d078ddaa.jpg)
+![64fc630d62488086e8aedf3d078ddaa](https://github.com/SunXun-creator/-/blob/main/64fc630d62488086e8aedf3d078ddaa.jpg)
 
-![142b77ac65c3cd4f8f5135c6ca784bc](C:\Users\sunxun\Desktop\第一次考核\142b77ac65c3cd4f8f5135c6ca784bc.jpg)
+![142b77ac65c3cd4f8f5135c6ca784bc](https://github.com/SunXun-creator/-/blob/main/142b77ac65c3cd4f8f5135c6ca784bc.jpg)
 
-![624cbef1e1a5c5f29bf26496e87901f](C:\Users\sunxun\Desktop\第一次考核\624cbef1e1a5c5f29bf26496e87901f.jpg)
+![624cbef1e1a5c5f29bf26496e87901f](https://github.com/SunXun-creator/-/blob/main/624cbef1e1a5c5f29bf26496e87901f.jpg)
 
 
 - 解释电路
